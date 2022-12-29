@@ -13,6 +13,12 @@ brew install node
 # Install Neovim
 brew install neovim
 
+# Install nmap
+brew install nmap
+
+# Install CLI wrapper for ip command
+brew install iproute2mac
+
 # Install Karabiner Elements
 brew install --cask karabiner-elements
 #
