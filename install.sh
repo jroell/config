@@ -49,3 +49,5 @@ brew install --cask git-credential-manager-core
 # npm login
 #
 # Install Magnet
+#
+# Update keyboard setting (repeat speed, repeat wait)
