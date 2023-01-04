@@ -1,4 +1,4 @@
-# Install Build Tools 
+# Install Build Tools
 xcode-select --install
 
 # Install Homebrew
@@ -44,6 +44,9 @@ git clone "https://github.com/zsh-users/zsh-syntax-highlighting.git" "$ZSH_CUSTO
 # Install GitHub Creditials Manager
 brew tap microsoft/git
 brew install --cask git-credential-manager-core
+
+# Install Docker
+brew install --cask docker
 
 # TODO:
 # Update .zshrc with ENVS and PATH and set plugins
