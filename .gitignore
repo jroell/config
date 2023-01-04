@@ -1,1 +1,5 @@
 test.sh
+gcloud/logs
+*.log
+htop
+configstore/reactNativeToolsConfig.json
