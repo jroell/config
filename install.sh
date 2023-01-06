@@ -13,6 +13,9 @@ brew install node
 # Install Neovim
 brew install neovim
 
+# Install shell formatter
+brew install shfmt
+
 # Install nmap
 brew install nmap
 
