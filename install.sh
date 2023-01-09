@@ -22,6 +22,12 @@ brew install nmap
 # Install CLI wrapper for ip command
 brew install iproute2mac
 
+# Install coreutils
+brew install coreutils
+
+# install tree
+brew install tree
+
 # Install Karabiner Elements
 brew install --cask karabiner-elements
 #
