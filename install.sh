@@ -25,9 +25,6 @@ brew install ripgrep
 # Install CLI wrapper for ip command
 brew install iproute2mac
 
-# Install coreutils
-brew install coreutils
-
 # install tree
 brew install tree
 
@@ -48,6 +45,9 @@ brew install --cask dbeaver-community
 
 # Install Oh-My-Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+#utils
+brew install coreutils findutils gnu-tar gnu-sed gawk gnutls gnu-indent gnu-getopt grep
 
 # Install Oh-My-Zsh Plugins
 git clone "https://github.com/zsh-users/zsh-autosuggestions.git" "$ZSH_CUSTOM/plugins/zsh-autosuggestions"
