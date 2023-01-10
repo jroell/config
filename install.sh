@@ -19,6 +19,9 @@ brew install shfmt
 # Install nmap
 brew install nmap
 
+# Install ripgrep
+brew install ripgrep
+
 # Install CLI wrapper for ip command
 brew install iproute2mac
 
